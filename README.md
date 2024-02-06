@@ -3,7 +3,7 @@
 <h1>Primeiro Projeto Responsividade</h1>
 <br>
 <br>
-<h3>Nesse projeto apenas foi utilizado as técnologias de HTML e CSS dando inicio na aprendizagem do desenvolvimento "FRONT-END"</h3>
+<h3>Aprendemos a como realizar a "responsividade" no desenvolvimento de um projeto, foi utilizado as técnologias de HTML e CSS dando inicio na aprendizagem do desenvolvimento "FRONT-END"</h3>
 <br>
 <br>
 <h1>Técnologias Utilizadas</h1>
